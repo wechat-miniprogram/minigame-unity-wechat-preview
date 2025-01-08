@@ -1,1 +1,15 @@
-{"name":"com.qq.weixin.minigame.wechatpreview","displayName":"WeChat Preview","description":"WeChat Mini Game Preview Tool.","version":"0.0.2","unity":"2020.3","keywords":["Tuanjie","WX","WeChat","Mini Game","Preview"],"dependencies":{"com.unity.nuget.newtonsoft-json":"3.2.1","com.unity.renderstreaming":"3.1.0-exp.7","com.unity.webrtc":"3.0.0-pre.6","com.unity.inputsystem":"1.5.1","com.qq.weixin.minigame":"https://github.com/wechat-miniprogram/minigame-tuanjie-transform-sdk.git#feat-preview"}}
+{
+    "name":"com.qq.weixin.minigame.wechatpreview",
+    "displayName":"WeChat Preview",
+    "description":"WeChat Mini Game Preview Tool.",
+    "version":"0.0.1",
+    "unity":"2020.3",
+    "keywords":["Tuanjie", "WX", "WeChat", "Mini Game", "Preview"],
+    "dependencies":{
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.renderstreaming": "3.1.0-exp.7",
+        "com.unity.webrtc": "3.0.0-pre.6",
+        "com.unity.inputsystem": "1.5.1",
+        "com.qq.weixin.minigame": "https://github.com/wechat-miniprogram/minigame-tuanjie-transform-sdk.git#feat-preview"
+    }
+}
