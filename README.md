@@ -10,13 +10,13 @@
 - **WebRTC: `3.0.0-pre.6`**
 - **Unity Render Streaming: `3.1.0-exp.7`**
 - **Input System: `1.5.1`**
-- **WXSDK: `feat-preview`** 
+- **WXSDK: `v0.1.25以上`** 
 
 ## 使用方法
 
 1. 创建Unity新项目或打开现有项目（Unity版本需>=`2020.3`）
-2. `Window——Package Manager——Add package form git URL...`，输入`https://github.com/wechat-miniprogram/minigame-tuanjie-transform-sdk.git#feat-preview`导入特定版本转换插件。
-3. `Window——Package Manager——Add package form git URL...`，输入`https://github.com/wechat-miniprogram/minigame-unity-wechat-preview.git`导入插件。
+2. `Window——Package Manager——Add package form git URL...`，输入`https://github.com/wechat-miniprogram/minigame-tuanjie-transform-sdk.git`导入微信小游戏转换插件。
+3. `Window——Package Manager——Add package form git URL...`，输入`https://github.com/wechat-miniprogram/minigame-unity-wechat-preview.git`导入预览插件。
 4. 可能会弹出首次使用`input system`的弹窗，点选`Yes`重启Editor。
 5. 确保`Unity Editor`所在设备与预览设备处于同一局域网下（内网可能有网络限制，若无法连接可以使用移动热点）。
 6. 打开`微信小游戏——在微信中预览`，并按需配置选项。
